@@ -6,6 +6,8 @@
 1. tf-idf
 2. Jaccard index
 3. Hashing MinHash SimHash
+
+
 Reference: https://moz.com/devblog/near-duplicate-detection/
 
 ## Sentiment Analysis
